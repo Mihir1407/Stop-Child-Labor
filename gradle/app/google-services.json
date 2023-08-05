@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106394661532",
+    "firebase_url": "https://stopchildlab.firebaseio.com",
+    "project_id": "stopchildlab",
+    "storage_bucket": "stopchildlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106394661532:android:25513173a5919518",
+        "android_client_info": {
+          "package_name": "com.example.mihir.stopchildlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106394661532-ohfs2dmrmftno8q17m53svasjko8o4hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mihir.stopchildlab",
+            "certificate_hash": "c98f3e3d36941aa76d3d90acb689c6c854a6889a"
+          }
+        },
+        {
+          "client_id": "106394661532-1f1qainr598spvn449k1cgg0igjbv9an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7aQEdspj3_BBlQv8oHZqCXe-QSZaR0hw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106394661532-1f1qainr598spvn449k1cgg0igjbv9an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
